@@ -1,0 +1,15 @@
+/Users/sanjiv/Documents/dotnet/c#/3.4D/bin/Debug/net6.0/3.4D
+/Users/sanjiv/Documents/dotnet/c#/3.4D/bin/Debug/net6.0/3.4D.deps.json
+/Users/sanjiv/Documents/dotnet/c#/3.4D/bin/Debug/net6.0/3.4D.runtimeconfig.json
+/Users/sanjiv/Documents/dotnet/c#/3.4D/bin/Debug/net6.0/3.4D.dll
+/Users/sanjiv/Documents/dotnet/c#/3.4D/bin/Debug/net6.0/3.4D.pdb
+/Users/sanjiv/Documents/dotnet/c#/3.4D/obj/Debug/net6.0/3.4D.csproj.AssemblyReference.cache
+/Users/sanjiv/Documents/dotnet/c#/3.4D/obj/Debug/net6.0/3.4D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjiv/Documents/dotnet/c#/3.4D/obj/Debug/net6.0/3.4D.AssemblyInfoInputs.cache
+/Users/sanjiv/Documents/dotnet/c#/3.4D/obj/Debug/net6.0/3.4D.AssemblyInfo.cs
+/Users/sanjiv/Documents/dotnet/c#/3.4D/obj/Debug/net6.0/3.4D.csproj.CoreCompileInputs.cache
+/Users/sanjiv/Documents/dotnet/c#/3.4D/obj/Debug/net6.0/3.4D.dll
+/Users/sanjiv/Documents/dotnet/c#/3.4D/obj/Debug/net6.0/refint/3.4D.dll
+/Users/sanjiv/Documents/dotnet/c#/3.4D/obj/Debug/net6.0/3.4D.pdb
+/Users/sanjiv/Documents/dotnet/c#/3.4D/obj/Debug/net6.0/3.4D.genruntimeconfig.cache
+/Users/sanjiv/Documents/dotnet/c#/3.4D/obj/Debug/net6.0/ref/3.4D.dll

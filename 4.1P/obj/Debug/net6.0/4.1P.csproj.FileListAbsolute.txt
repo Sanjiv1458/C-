@@ -1,0 +1,15 @@
+/Users/sanjiv/Documents/dotnet/c#/4.1P/bin/Debug/net6.0/4.1P
+/Users/sanjiv/Documents/dotnet/c#/4.1P/bin/Debug/net6.0/4.1P.deps.json
+/Users/sanjiv/Documents/dotnet/c#/4.1P/bin/Debug/net6.0/4.1P.runtimeconfig.json
+/Users/sanjiv/Documents/dotnet/c#/4.1P/bin/Debug/net6.0/4.1P.dll
+/Users/sanjiv/Documents/dotnet/c#/4.1P/bin/Debug/net6.0/4.1P.pdb
+/Users/sanjiv/Documents/dotnet/c#/4.1P/obj/Debug/net6.0/4.1P.csproj.AssemblyReference.cache
+/Users/sanjiv/Documents/dotnet/c#/4.1P/obj/Debug/net6.0/4.1P.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjiv/Documents/dotnet/c#/4.1P/obj/Debug/net6.0/4.1P.AssemblyInfoInputs.cache
+/Users/sanjiv/Documents/dotnet/c#/4.1P/obj/Debug/net6.0/4.1P.AssemblyInfo.cs
+/Users/sanjiv/Documents/dotnet/c#/4.1P/obj/Debug/net6.0/4.1P.csproj.CoreCompileInputs.cache
+/Users/sanjiv/Documents/dotnet/c#/4.1P/obj/Debug/net6.0/4.1P.dll
+/Users/sanjiv/Documents/dotnet/c#/4.1P/obj/Debug/net6.0/refint/4.1P.dll
+/Users/sanjiv/Documents/dotnet/c#/4.1P/obj/Debug/net6.0/4.1P.pdb
+/Users/sanjiv/Documents/dotnet/c#/4.1P/obj/Debug/net6.0/4.1P.genruntimeconfig.cache
+/Users/sanjiv/Documents/dotnet/c#/4.1P/obj/Debug/net6.0/ref/4.1P.dll

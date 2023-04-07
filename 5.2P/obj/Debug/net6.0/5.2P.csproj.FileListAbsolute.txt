@@ -1,0 +1,15 @@
+/Users/sanjiv/Documents/dotnet/c#/5.2P/bin/Debug/net6.0/5.2P
+/Users/sanjiv/Documents/dotnet/c#/5.2P/bin/Debug/net6.0/5.2P.deps.json
+/Users/sanjiv/Documents/dotnet/c#/5.2P/bin/Debug/net6.0/5.2P.runtimeconfig.json
+/Users/sanjiv/Documents/dotnet/c#/5.2P/bin/Debug/net6.0/5.2P.dll
+/Users/sanjiv/Documents/dotnet/c#/5.2P/bin/Debug/net6.0/5.2P.pdb
+/Users/sanjiv/Documents/dotnet/c#/5.2P/obj/Debug/net6.0/5.2P.csproj.AssemblyReference.cache
+/Users/sanjiv/Documents/dotnet/c#/5.2P/obj/Debug/net6.0/5.2P.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjiv/Documents/dotnet/c#/5.2P/obj/Debug/net6.0/5.2P.AssemblyInfoInputs.cache
+/Users/sanjiv/Documents/dotnet/c#/5.2P/obj/Debug/net6.0/5.2P.AssemblyInfo.cs
+/Users/sanjiv/Documents/dotnet/c#/5.2P/obj/Debug/net6.0/5.2P.csproj.CoreCompileInputs.cache
+/Users/sanjiv/Documents/dotnet/c#/5.2P/obj/Debug/net6.0/5.2P.dll
+/Users/sanjiv/Documents/dotnet/c#/5.2P/obj/Debug/net6.0/refint/5.2P.dll
+/Users/sanjiv/Documents/dotnet/c#/5.2P/obj/Debug/net6.0/5.2P.pdb
+/Users/sanjiv/Documents/dotnet/c#/5.2P/obj/Debug/net6.0/5.2P.genruntimeconfig.cache
+/Users/sanjiv/Documents/dotnet/c#/5.2P/obj/Debug/net6.0/ref/5.2P.dll

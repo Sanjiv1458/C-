@@ -1,0 +1,15 @@
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/bin/Debug/net6.0/task9
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/bin/Debug/net6.0/task9.deps.json
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/bin/Debug/net6.0/task9.runtimeconfig.json
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/bin/Debug/net6.0/task9.dll
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/bin/Debug/net6.0/task9.pdb
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/obj/Debug/net6.0/task9.csproj.AssemblyReference.cache
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/obj/Debug/net6.0/task9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/obj/Debug/net6.0/task9.AssemblyInfoInputs.cache
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/obj/Debug/net6.0/task9.AssemblyInfo.cs
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/obj/Debug/net6.0/task9.csproj.CoreCompileInputs.cache
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/obj/Debug/net6.0/task9.dll
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/obj/Debug/net6.0/refint/task9.dll
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/obj/Debug/net6.0/task9.pdb
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/obj/Debug/net6.0/task9.genruntimeconfig.cache
+/Users/sanjiv/Documents/dotnet/c#/3.1P/task9/obj/Debug/net6.0/ref/task9.dll
